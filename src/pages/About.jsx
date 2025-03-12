@@ -27,9 +27,8 @@ const About = () => {
           </h1>
           <div className="text-slate-700 mt-10 text-xl font-medium">
             <p>
-              The SLS Pool party is open every Friday, Saturday and Sunday from
-              12pm-6:30pm. Haus of Hyde nightclub is from 10pm-2am. We
-              specialize in making your special occasion memorable. For
+              The Straberry Moon Pool party is open every Friday, Saturday and Sunday from
+              12pm-6:30pm. We specialize in making your special occasion memorable. For
               reservations please fill out our reservation form and we will get
               back to you as soon as possible.
             </p>

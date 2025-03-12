@@ -10,9 +10,9 @@ const Marquee = () => {
       <div className="absolute inset-0 bg-black bg-opacity-80"></div>
       <div className="relative z-10 flex whitespace-nowrap">
         <p className="animate-marquee text-white text-2xl font-semibold uppercase">
-          🔹SLS Pool Party 🔹SLS Pool Party 🔹SLS Pool Party 🔹SLS Pool Party
-          🔹SLS Pool Party 🔹SLS Pool Party 🔹SLS Pool Party 🔹SLS Pool Party
-          🔹SLS Pool Party 🔹SLS Pool Party 🔹SLS Pool Party
+          🔹Strawberry Moon 🔹Strawberry Moon 🔹Strawberry Moon 🔹Strawberry Moon
+          🔹Strawberry Moon 🔹Strawberry Moon 🔹Strawberry Moon 🔹Strawberry Moon
+          🔹Strawberry Moon 🔹Strawberry Moon 🔹Strawberry Moon
         </p>
       </div>
     </div>

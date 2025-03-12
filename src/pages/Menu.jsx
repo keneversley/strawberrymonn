@@ -40,10 +40,10 @@ const Menu = () => {
               Drink Menu
             </h1>
             <h3 className="text-xl md:text-2xl font-semibold text-gray-300">
-              Hyde Beach SLS Pool Party Menu
+              Strawberry Moon Pool Party Menu
             </h3>
             <p className="text-lg md:text-xl font-medium text-gray-300">
-              The SLS Miami pool party is open every Friday,{" "}
+              Strawberry Moon pool party is open every Friday,{" "}
               <br className="hidden md:block" />
               Saturday and Sunday from 12pm-6:30pm.
             </p>

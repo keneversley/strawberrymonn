@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="flex justify-center items-center">
           <p className="text-xs text-center text-slate-600">
             ©All right reserved{" "}
-            <span className="uppercase ">gavin stewart</span>2025.
+            <span className="uppercase ">Stunna Burrell</span>2025.
           </p>
         </div>
       </div>

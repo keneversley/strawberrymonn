@@ -16,12 +16,12 @@ const Contact = () => {
           <h1 className="text-xl text-slate-400 font-medium uppercase mt-5">
             Phone
           </h1>
-          <p className="text-xl text-slate-600 font-medium">305-980-9556</p>
+          <p className="text-xl text-slate-600 font-medium">305-570-5232</p>
           <h1 className="text-xl text-slate-400 font-medium uppercase mt-5">
             Email
           </h1>
           <p className="text-xl text-slate-600 font-medium">
-            TABLES@HYDEBEACHPOOLPARTY.COM
+          Reservations@strawberrymoonmiapoolparty.com
           </p>
           <div className="mt-6">
             <div className="w-full h-[200px]">
@@ -39,8 +39,8 @@ const Contact = () => {
             {/* Get Directions Button */}
             <div className="mt-4 flex flex-col md:flex-row justify-between items-center">
               <div>
-                Hyde Beach Pool Party <br />
-                1701 Collins Avenue <br />
+               Strawberry Moon pool party <br />
+               601 Washington Ave <br />
                 Miami Beach, FL, United States
               </div>
               <a
