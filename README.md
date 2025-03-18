@@ -1,72 +1,24 @@
-# Getting Started with Create React App
+Strawberry Moon Pool Party - Event Reservation Website
+🌴 Live Site: www.strawberrymoonmiapoolparty.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview
+The Strawberry Moon Pool Party website was designed to provide an easy and seamless way for guests to reserve their spots at The Goodtime Hotel’s exclusive pool parties. Built with React.js, HTML, and Tailwind CSS, the site ensures a modern and responsive user experience. The website includes an interactive calendar to keep visitors updated on upcoming events and integrates WhatsApp & email for direct communication. Additionally, a Google Maps feature helps guests find the venue effortlessly. The site is deployed on Vercel for speed and reliability.
 
-## Available Scripts
+Tech Stack
+Frontend: React.js, HTML, Tailwind CSS
+Features: Interactive event calendar, WhatsApp & email contact integration, Google Maps for directions
+Deployment: Vercel
+Features
+✅ User-friendly reservation system for pool parties 🎉
+✅ Event calendar for staying updated on upcoming events 📅
+✅ Direct contact via WhatsApp and email 📩
+✅ Integrated Google Maps for easy navigation 🗺️
+✅ Fully responsive design with Tailwind CSS for mobile & desktop 📱💻
+✅ Fast and secure deployment on Vercel 🚀
 
-In the project directory, you can run:
 
-### `npm start`
+<img width="1353" alt="Screenshot 2025-03-18 at 10 52 10 AM" src="https://github.com/user-attachments/assets/7dbbc66c-b665-4ec5-8204-6ca254c7680e" />
+<img width="1336" alt="Screenshot 2025-03-18 at 10 52 41 AM" src="https://github.com/user-attachments/assets/15c87cf4-41c5-4316-8318-d8eefd989677" />
+<img width="1337" alt="Screenshot 2025-03-18 at 10 53 09 AM" src="https://github.com/user-attachments/assets/1a398cd3-51c3-437c-80c5-dfa47a0f8ccf" />
+<img width="1351" alt="Screenshot 2025-03-18 at 10 53 50 AM" src="https://github.com/user-attachments/assets/bbdac186-0f0a-43f6-8eac-7eee4b88ae72" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# gavin
-# stwewart
