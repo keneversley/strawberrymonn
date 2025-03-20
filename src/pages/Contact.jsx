@@ -21,19 +21,21 @@ const Contact = () => {
             Email
           </h1>
           <p className="text-xl text-slate-600 font-medium">
-          Reservations@strawberrymoonmiapoolparty.com
+          vipservices@strawberrymoonmiapoolparty.com
           </p>
           <div className="mt-6">
             <div className="w-full h-[200px]">
+           
               <iframe
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                loading="lazy"
-                allowFullScreen
-                referrerPolicy="no-referrer-when-downgrade"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.940161289834!2d-73.98513082421165!3d40.75889677132062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855afc28a01%3A0xe55a379b68ac9234!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1690000000000"
-              ></iframe>
+  width="100%"
+  height="100%"
+  style={{ border: 0 }}
+  loading="lazy"
+  allowFullScreen
+  referrerPolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3473.2975485418013!2d-80.13453982387156!3d25.77509387730244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b4f5b9c7f0f3%3A0x4f45d8b65d82db3!2s601%20Washington%20Ave%2C%20Miami%20Beach%2C%20FL%2033919%2C%20USA!5e0!3m2!1sen!2sus!4v1710800000000"
+/>
+
             </div>
 
             {/* Get Directions Button */}
@@ -43,14 +45,15 @@ const Contact = () => {
                601 Washington Ave <br />
                 Miami Beach, FL, United States
               </div>
+             
               <a
-                href="https://www.google.com/maps/dir/?api=1&destination=Times+Square,New+York,USA"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-4 py-2 bg-cyan-700 text-white rounded hover:bg-cyan-800"
-              >
-                Get Directions
-              </a>
+             href="https://www.google.com/maps/dir/?api=1&destination=601+Washington+Ave,Miami+Beach,FL,USA"
+             target="_blank"
+             rel="noopener noreferrer"
+             className="px-4 py-2 bg-cyan-700 text-white rounded hover:bg-cyan-800"
+>
+             Get Directions
+             </a>
             </div>
           </div>
         </div>
