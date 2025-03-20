@@ -15,8 +15,12 @@ export default function ContactForm() {
   const onSubmit = (data) => {
     const subject = encodeURIComponent("New Contact Form Submission");
     const body = encodeURIComponent(`Name: ${data.name}\nEmail: ${data.email}\nMessage: ${data.message}`);
-  
+    
+    // Ensure the subject and body are properly formatted for a mailto link
     window.location.href = `mailto:vipservices@strawberrymoonmiapoolparty.com?subject=${subject}&body=${body}`;
+    
+    // Optional: You can reset the form after sending (if needed)
+    reset();
   };
   
 
