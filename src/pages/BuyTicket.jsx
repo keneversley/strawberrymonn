@@ -29,12 +29,12 @@ const BuyTicket = () => {
     navigate("/");
   };
 
-  // const handleBuyTicket = () => {
-  //   window.location.href = "https://booketing.com/microsite/vipstunna/";
-  // };
   const handleBuyTicket = () => {
-    window.open("https://booketing.com/microsite/vipstunna/", "_blank");
+    window.location.href = "https://booketing.com/microsite/vipstunna/";
   };
+  // const handleBuyTicket = () => {
+  //   window.open("https://booketing.com/microsite/vipstunna/", "_blank");
+  // };
 
   return (
     <div className="min-h-screen mt-20 flex flex-col items-center gap-4">
