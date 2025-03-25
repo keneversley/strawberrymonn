@@ -15,19 +15,19 @@ const Carousel = () => {
     //   console.error("Invalid label type:", label);
     //   return;
     }
-    switch (label.toLowerCase()) {
-      case "event":
-        window.location.href = "/event";
-        break;
-      case "reserve table":
-        window.location.href = "/reserve-table";
-        break;
-      case "checkout our parties":
-        window.location.href = "/checkout-parties";
-        break;
-      default:
-        console.log("No matching page for:", label);
-    }
+    // switch (label.toLowerCase()) {
+    //   case "event":
+    //     window.location.href = "/event";
+    //     break;
+    //   case "reserve table":
+    //     window.location.href = "/reserve-table";
+    //     break;
+    //   case "checkout our parties":
+    //     window.location.href = "/checkout-parties";
+    //     break;
+    //   default:
+    //     console.log("No matching page for:", label);
+    // }
   };
   // const handleBuyTicket = () => {
   //   window.location.href = "/buy-ticket";
