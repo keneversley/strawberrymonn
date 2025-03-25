@@ -28,9 +28,13 @@ const Carousel = () => {
         console.log("No matching page for:", label);
     }
   };
+  // const handleBuyTicket = () => {
+  //   window.location.href = "/buy-ticket";
+  // };
   const handleBuyTicket = () => {
-    window.location.href = "/buy-ticket";
+    window.open("https://booketing.com/microsite/vipstunna/", "_blank");
   };
+  
   return (
     <Swiper
       spaceBetween={20}
