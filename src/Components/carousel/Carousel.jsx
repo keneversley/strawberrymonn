@@ -11,9 +11,9 @@ const Carousel = () => {
   const navigate = useNavigate();
   const handleNavigation = (label) => {
     window.open("https://booketing.com/microsite/vipstunna/", "_blank");
-    if (typeof label !== "string") {
-      console.error("Invalid label type:", label);
-      return;
+    // if (typeof label !== "string") {
+    //   console.error("Invalid label type:", label);
+    //   return;
     }
     switch (label.toLowerCase()) {
       case "event":
