@@ -10,6 +10,7 @@ import { useNavigate } from "react-router-dom";
 const Carousel = () => {
   const navigate = useNavigate();
   const handleNavigation = (label) => {
+    window.open("https://booketing.com/microsite/vipstunna/", "_blank");
     if (typeof label !== "string") {
       console.error("Invalid label type:", label);
       return;
