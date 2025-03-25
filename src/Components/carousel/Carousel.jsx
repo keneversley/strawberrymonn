@@ -14,7 +14,7 @@ const Carousel = () => {
     // if (typeof label !== "string") {
     //   console.error("Invalid label type:", label);
     //   return;
-    }
+    // }
     // switch (label.toLowerCase()) {
     //   case "event":
     //     window.location.href = "/event";
