@@ -1,7 +1,7 @@
 import ArrowBtn from'./image/arrow_btn.png';
 import poseIcon from'./image/pause_icon.png';
 import playIcon from'./image/play_icon.png';
-import video from'./image/strawberry/video.mov';
+import video from'./image/strawberry/stunna.mov';
 import slideOne from'./image/strawberry/slideOne.jpg';
 import slideTwo from'./image/strawberry/slideTwo.jpg';
 import slideThree from'./image/strawberry/slideThree.jpg';
